@@ -1,0 +1,2 @@
+ Hi there!
+ This is your space to practice git. Feel free to try anything.
